@@ -1,0 +1,10 @@
+a="LAYOUT"
+print(a)
+#+INDEXING
+print(a[0]+a[1]+a[2])
+print(a[5]+a[4]+a[3]+a[2]+a[1]+a[0])
+print(a[2]+a[3]+a[4])
+#-INDEXING
+print(a[-3]+a[-2]+a[-1])
+print(a[-6]+a[-5]+a[-4]+a[-3]+a[-2]+a[-1])
+print(a[-4]+a[-3]+a[-2])
